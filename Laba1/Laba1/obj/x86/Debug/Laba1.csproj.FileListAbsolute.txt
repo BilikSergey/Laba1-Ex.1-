@@ -1,0 +1,18 @@
+C:\Users\Admin\AppData\Local\Temporary Projects\Laba1\bin\Debug\Laba1.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\Laba1\bin\Debug\Laba1.pdb
+C:\Users\Admin\AppData\Local\Temporary Projects\Laba1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\AppData\Local\Temporary Projects\Laba1\obj\x86\Debug\Laba1.Form1.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\Laba1\obj\x86\Debug\Laba1.Properties.Resources.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\Laba1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Admin\AppData\Local\Temporary Projects\Laba1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Admin\AppData\Local\Temporary Projects\Laba1\obj\x86\Debug\Laba1.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\Laba1\obj\x86\Debug\Laba1.pdb
+C:\Users\Admin\documents\visual studio 2010\Projects\Laba1\Laba1\obj\x86\Debug\Laba1.exe
+C:\Users\Admin\documents\visual studio 2010\Projects\Laba1\Laba1\obj\x86\Debug\Laba1.pdb
+C:\Users\Admin\documents\visual studio 2010\Projects\Laba1\Laba1\bin\Debug\Laba1.exe
+C:\Users\Admin\documents\visual studio 2010\Projects\Laba1\Laba1\bin\Debug\Laba1.pdb
+C:\Users\Admin\documents\visual studio 2010\Projects\Laba1\Laba1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\documents\visual studio 2010\Projects\Laba1\Laba1\obj\x86\Debug\Laba1.Form1.resources
+C:\Users\Admin\documents\visual studio 2010\Projects\Laba1\Laba1\obj\x86\Debug\Laba1.Properties.Resources.resources
+C:\Users\Admin\documents\visual studio 2010\Projects\Laba1\Laba1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Admin\documents\visual studio 2010\Projects\Laba1\Laba1\obj\x86\Debug\GenerateResource.write.1.tlog
