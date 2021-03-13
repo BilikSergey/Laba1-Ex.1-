@@ -1,0 +1,9 @@
+C:\Users\Admin\AppData\Local\Temporary Projects\Laba1 (Ex.1)\bin\Release\Laba1 (Ex.1).exe
+C:\Users\Admin\AppData\Local\Temporary Projects\Laba1 (Ex.1)\bin\Release\Laba1 (Ex.1).pdb
+C:\Users\Admin\AppData\Local\Temporary Projects\Laba1 (Ex.1)\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Admin\AppData\Local\Temporary Projects\Laba1 (Ex.1)\obj\x86\Release\Laba1__Ex._1_.Form1.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\Laba1 (Ex.1)\obj\x86\Release\Laba1__Ex._1_.Properties.Resources.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\Laba1 (Ex.1)\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Admin\AppData\Local\Temporary Projects\Laba1 (Ex.1)\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Admin\AppData\Local\Temporary Projects\Laba1 (Ex.1)\obj\x86\Release\Laba1 (Ex.1).exe
+C:\Users\Admin\AppData\Local\Temporary Projects\Laba1 (Ex.1)\obj\x86\Release\Laba1 (Ex.1).pdb
