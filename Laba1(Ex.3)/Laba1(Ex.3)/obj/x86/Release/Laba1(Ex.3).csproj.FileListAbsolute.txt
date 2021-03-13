@@ -1,0 +1,9 @@
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Laba1(Ex.3)\Laba1(Ex.3)\bin\Release\Laba1(Ex.3).exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Laba1(Ex.3)\Laba1(Ex.3)\bin\Release\Laba1(Ex.3).pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Laba1(Ex.3)\Laba1(Ex.3)\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Laba1(Ex.3)\Laba1(Ex.3)\obj\x86\Release\Laba1_Ex._2_.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Laba1(Ex.3)\Laba1(Ex.3)\obj\x86\Release\Laba1_Ex._2_.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Laba1(Ex.3)\Laba1(Ex.3)\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Laba1(Ex.3)\Laba1(Ex.3)\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Laba1(Ex.3)\Laba1(Ex.3)\obj\x86\Release\Laba1(Ex.3).exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Laba1(Ex.3)\Laba1(Ex.3)\obj\x86\Release\Laba1(Ex.3).pdb
