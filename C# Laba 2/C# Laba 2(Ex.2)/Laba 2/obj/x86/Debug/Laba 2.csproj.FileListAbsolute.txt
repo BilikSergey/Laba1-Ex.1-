@@ -1,0 +1,18 @@
+C:\Users\Admin\documents\visual studio 2010\Projects\Laba 2\Laba 2\bin\Debug\Laba 2.exe
+C:\Users\Admin\documents\visual studio 2010\Projects\Laba 2\Laba 2\bin\Debug\Laba 2.pdb
+C:\Users\Admin\documents\visual studio 2010\Projects\Laba 2\Laba 2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\documents\visual studio 2010\Projects\Laba 2\Laba 2\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Admin\documents\visual studio 2010\Projects\Laba 2\Laba 2\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Admin\documents\visual studio 2010\Projects\Laba 2\Laba 2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Admin\documents\visual studio 2010\Projects\Laba 2\Laba 2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Admin\documents\visual studio 2010\Projects\Laba 2\Laba 2\obj\x86\Debug\Laba 2.exe
+C:\Users\Admin\documents\visual studio 2010\Projects\Laba 2\Laba 2\obj\x86\Debug\Laba 2.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\C# Laba 2(Ex.2)\Laba 2\obj\x86\Debug\Laba 2.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\C# Laba 2(Ex.2)\Laba 2\obj\x86\Debug\Laba 2.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\C# Laba 2(Ex.2)\Laba 2\bin\Debug\Laba 2.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\C# Laba 2(Ex.2)\Laba 2\bin\Debug\Laba 2.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\C# Laba 2(Ex.2)\Laba 2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\C# Laba 2(Ex.2)\Laba 2\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\C# Laba 2(Ex.2)\Laba 2\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\C# Laba 2(Ex.2)\Laba 2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\C# Laba 2(Ex.2)\Laba 2\obj\x86\Debug\GenerateResource.write.1.tlog

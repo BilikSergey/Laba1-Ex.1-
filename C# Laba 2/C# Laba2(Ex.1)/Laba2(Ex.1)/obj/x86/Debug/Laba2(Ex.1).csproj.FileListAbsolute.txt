@@ -1,0 +1,10 @@
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Laba2(Ex.1)\Laba2(Ex.1)\bin\Debug\Laba2(Ex.1).exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Laba2(Ex.1)\Laba2(Ex.1)\bin\Debug\Laba2(Ex.1).pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Laba2(Ex.1)\Laba2(Ex.1)\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Laba2(Ex.1)\Laba2(Ex.1)\obj\x86\Debug\Laba2(Ex.1).exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Laba2(Ex.1)\Laba2(Ex.1)\obj\x86\Debug\Laba2(Ex.1).pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\C# Laba2(Ex.1)\Laba2(Ex.1)\obj\x86\Debug\Laba2(Ex.1).exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\C# Laba2(Ex.1)\Laba2(Ex.1)\obj\x86\Debug\Laba2(Ex.1).pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\C# Laba2(Ex.1)\Laba2(Ex.1)\bin\Debug\Laba2(Ex.1).exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\C# Laba2(Ex.1)\Laba2(Ex.1)\bin\Debug\Laba2(Ex.1).pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\C# Laba2(Ex.1)\Laba2(Ex.1)\obj\x86\Debug\ResolveAssemblyReference.cache
